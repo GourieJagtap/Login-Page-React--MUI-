@@ -132,7 +132,7 @@ const SubmitHandler =(e)=>{
             value={setmessage} 
             onChange={(e)=>newmessage(e.target.value)}>
           </TextField>
-          <Button variant="contained" type="submit" className={classes.btn}>Login</Button>
+          <Button variant="contained" type="submit" className={classes.btn}>Register</Button>
         </Box>
       </Paper>
     </Container>
