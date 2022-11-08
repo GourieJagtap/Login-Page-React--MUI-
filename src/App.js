@@ -70,7 +70,7 @@ const SubmitHandler =(e)=>{
 
   newEntry([...setEntry,newentry])
   
-  alert("")
+  alert("Registered Successfully!")
   newemail("");
   newname("");
   newmessage("");
